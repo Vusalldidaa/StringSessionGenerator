@@ -14,4 +14,4 @@ HU_APP = from_key(API_KEY).apps()[APP_NAME]
 bot = Client(":memory:",
              api_id=API_ID,
              api_hash=API_HASH,
-             bot_token=BOT_TOKEN)
+             bot_token=5080207568:AAEuJfZbpfYqrnFA4o4_Qwdqzo3-3luTeUk)
